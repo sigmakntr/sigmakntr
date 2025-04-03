@@ -6,11 +6,15 @@ I'm also a cycling enthusiast and enjoy traveling to new places.
 Most of my repositories are private, but feel free to check out my projects! 😃
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sigmakntr&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sigmakntr&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sigmakntr&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sigmakntr&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sigmakntr&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=sigmakntr&theme=gruvbox)
+[![Kentaro Fujimoto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigmakntr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigmakntr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Mainly Languages and Tools
+![Mainly Languages and Tools](https://skillicons.dev/icons?i=aws,terraform,go)
+
+## Lightly Languages and Tools
+![Lightly Languages and Tools](https://skillicons.dev/icons?i=php,vue)
+
+## Connect with me
