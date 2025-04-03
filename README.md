@@ -27,7 +27,7 @@ Most of my repositories are private, but feel free to check out my projects! ðŸ˜
 ---
 
 ## ðŸ§ª Lightly Languages and Tools
-![Lightly Languages and Tools](https://skillicons.dev/icons?i=python,php,ruby,vue,react)
+![Lightly Languages and Tools](https://skillicons.dev/icons?i=typescript,vue,react,php,laravel)
 
 ---
 
