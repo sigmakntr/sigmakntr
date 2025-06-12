@@ -10,7 +10,6 @@ Most of my repositories are private, but feel free to check out my projects! ğŸ˜
 ## ğŸ† GitHub Trophy
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=sigmakntr&theme=darkhub&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sigmakntr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
