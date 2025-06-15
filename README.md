@@ -25,7 +25,7 @@ Most of my repositories are private, but feel free to check out my projects! ðŸ˜
 ---
 
 ## ðŸ§ª Lightly Languages and Tools
-![Lightly Languages and Tools](https://skillicons.dev/icons?i=typescript,vue,next,nest,react,expo,aws)
+![Lightly Languages and Tools](https://skillicons.dev/icons?i=typescript,vue,next,nest,react)
 
 ---
 
