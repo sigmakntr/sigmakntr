@@ -15,8 +15,6 @@ Most of my repositories are private, but feel free to check out my projects! ðŸ˜
 
 ## ðŸ“Š Stats
 
-[![Kentaro Fujimoto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigmakntr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigmakntr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
