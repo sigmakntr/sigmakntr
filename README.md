@@ -20,12 +20,12 @@ Most of my repositories are private, but feel free to check out my projects! �
 ---
 
 ## 🛠️ Mainly Languages and Tools
-![Mainly Languages and Tools](https://skillicons.dev/icons?i=aws,terraform)
+![Mainly Languages and Tools](https://skillicons.dev/icons?i=aws,firebase,supabase,gcp,terraform)
 
 ---
 
 ## 🧪 Lightly Languages and Tools
-![Lightly Languages and Tools](https://skillicons.dev/icons?i=typescript,vue,next,nest,react)
+![Lightly Languages and Tools](https://skillicons.dev/icons?i=typescript,vuejs,nextjs,nestjs,react)
 
 ---
 
