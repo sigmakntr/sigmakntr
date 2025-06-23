@@ -28,7 +28,3 @@ Most of my repositories are private, but feel free to check out my projects! ðŸ˜
 ![Lightly Languages and Tools](https://skillicons.dev/icons?i=typescript,vuejs,nextjs,nestjs,react)
 
 ---
-
-## ðŸ“¬ Connect with me
-https://x.com/sigmakntr
-https://www.instagram.com/sigmakntr
