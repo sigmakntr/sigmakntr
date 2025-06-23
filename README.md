@@ -30,4 +30,5 @@ Most of my repositories are private, but feel free to check out my projects! �
 ---
 
 ## 📬 Connect with me
-<!-- SNSリンクなどがあればここに追加 -->
+https://x.com/sigmakntr
+https://www.instagram.com/sigmakntr
