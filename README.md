@@ -15,7 +15,7 @@ Most of my repositories are private, but feel free to check out my projects! ðŸ˜
 
 ## ðŸ“Š Stats
 
-[![Top Langs](https://github-readme-stats-op761lpfd-sigmakntrs-projects.vercel.app/api/top-langs/?username=sigmakntr&layout=compact&theme=dark&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nu-ochre-10.vercel.app/api/top-langs/?username=sigmakntr&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
