@@ -1,9 +1,6 @@
 ## 👋 Hi there! I'm Kentaro Fujimoto.
-I'm a web engineer working at a tech company, but coding isn't just my job—it's my passion! 🚀  
-In my free time, I love building web apps, developing mobile apps, and writing about tech on my blog.  
-I'm also a cycling enthusiast and enjoy traveling to new places.
-
-Most of my repositories are private, but feel free to check out my projects! 😃
+I'm a software engineer at a tech company, and I love building things on the side too—like mobile apps and web services.
+I don’t have a ton of public repos, but I’ve made some fun and useful web tools, so feel free to check them out!
 
 ---
 
